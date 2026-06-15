@@ -1,0 +1,6 @@
+{
+  "name": "Sabina's Quest",
+  "description": "A magical RPG-themed birthday app for Sabina",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
